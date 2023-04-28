@@ -1,0 +1,5 @@
+﻿  zd6.cpp
+C:\Users\jszpr\Desktop\jpo prezentowanie\zd6\zd6.cpp(19,11): warning C4244: "inicjowanie": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\jszpr\Desktop\jpo prezentowanie\zd6\zd6.cpp(29,22): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\jszpr\Desktop\jpo prezentowanie\zd6\zd6.cpp(100,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  zd6.vcxproj -> C:\Users\jszpr\Desktop\jpo prezentowanie\zd6\Debug\zd6.exe
